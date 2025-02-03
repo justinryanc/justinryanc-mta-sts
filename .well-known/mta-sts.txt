@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx01.mail.icloud.com
-mx: mx02.mail.icloud.com
+mx: glacier.mxrouting.net
+mx: glacier-relay.mxrouting.net
 max_age: 604800
